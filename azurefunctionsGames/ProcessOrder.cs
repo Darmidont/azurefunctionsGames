@@ -5,11 +5,11 @@ using Microsoft.Extensions.Logging;
 
 namespace azurefunctionsGames;
 
-public class MyHttpFunction
+public class ProcessOrder
 {
-    private readonly ILogger<MyHttpFunction> _logger;
+    private readonly ILogger<ProcessOrder> _logger;
     //
-    public MyHttpFunction(ILogger<MyHttpFunction> logger)
+    public ProcessOrder(ILogger<ProcessOrder> logger)
     {
         _logger = logger;
     }
