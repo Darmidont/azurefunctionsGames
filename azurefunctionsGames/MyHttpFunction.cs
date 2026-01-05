@@ -8,7 +8,7 @@ namespace azurefunctionsGames;
 public class MyHttpFunction
 {
     private readonly ILogger<MyHttpFunction> _logger;
-
+    //
     public MyHttpFunction(ILogger<MyHttpFunction> logger)
     {
         _logger = logger;
