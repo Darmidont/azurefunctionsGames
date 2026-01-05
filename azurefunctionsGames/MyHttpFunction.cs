@@ -14,7 +14,7 @@ public class MyHttpFunction
         _logger = logger;
     }
 
-    [Function("MyHttpFunction")]
+    [Function("ProcessOrder")]
     public IActionResult Run([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
     {
         _logger.LogInformation("C# HTTP trigger function processed a request.");
