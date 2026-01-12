@@ -8,6 +8,7 @@ namespace azurefunctionsGames;
 public class ProcessOrder
 {
     private readonly ILogger<ProcessOrder> _logger;
+
     //
     public ProcessOrder(ILogger<ProcessOrder> logger)
     {

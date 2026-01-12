@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\github\\azurefunctionsGames\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C0FF5A2-858A-407F-B5A9-7A6044E0A5ED}|azurefunctionsGames\\azurefunctionsGames.csproj|d:\\github\\azurefunctionsgames\\azurefunctionsgames\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0FF5A2-858A-407F-B5A9-7A6044E0A5ED}|azurefunctionsGames\\azurefunctionsGames.csproj|solutionrelative:azurefunctionsgames\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5105D6E3-9FF2-B507-64D2-A42B69CF3C88}|azurefunctionsGames\\azurefunctionsGames.csproj|d:\\github\\azurefunctionsgames\\azurefunctionsgames\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5105D6E3-9FF2-B507-64D2-A42B69CF3C88}|azurefunctionsGames\\azurefunctionsGames.csproj|solutionrelative:azurefunctionsgames\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "azurefunctionsGames\\ProcessOrder.cs",
               "ToolTip": "D:\\github\\azurefunctionsGames\\azurefunctionsGames\\ProcessOrder.cs",
               "RelativeToolTip": "azurefunctionsGames\\ProcessOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T14:10:44.33Z",
               "EditorCaption": ""
